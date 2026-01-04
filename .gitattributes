@@ -1,0 +1,6 @@
+# Mark QC reports as generated/documentation (not counted in language stats)
+*.html linguist-generated
+*.json linguist-generated
+01_qc_before_processing/** linguist-generated
+02_process_reads/** linguist-generated
+03_qc_after_processing/** linguist-generated
