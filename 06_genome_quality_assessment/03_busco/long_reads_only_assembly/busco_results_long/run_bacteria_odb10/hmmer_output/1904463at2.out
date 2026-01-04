@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1:1055182-1055451|+  -             90 1904463at2           -             74   1.6e-36  123.8   1.7   1   1   1.7e-40     2e-36  123.5   1.7     1    67     1    68     1    75 0.97 1_2319 # 1055182 # 1055451 # 1 # ID=1_2319;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=10bp;gc_cont=0.437
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/1904463at2.hmm
+# Target file:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/run_bacteria_odb10/hmmer_output/1904463at2.out --cpu 1 /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/1904463at2.hmm /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly
+# Date:            Sun Jan  4 15:52:23 2026
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1:2159511-2159996|+  -            162 932854at2            -           1620     7e-63  212.0   0.4   1   1   5.4e-66     8e-63  211.8   0.4   174   317     6   151     1   159 0.95 1_4713 # 2159511 # 2159996 # 1 # ID=1_4713;partial=00;start_type=ATG;rbs_motif=AAAAA;rbs_spacer=12bp;gc_cont=0.568
+1:2158986-2159249|+  -             88 932854at2            -           1620     5e-35  119.7   0.0   1   1     4e-38     6e-35  119.4   0.0     2    85     1    85     1    86 0.98 1_4711 # 2158986 # 2159249 # 1 # ID=1_4711;partial=00;start_type=ATG;rbs_motif=AAAAAA;rbs_spacer=3bp;gc_cont=0.504
+1:2159999-2160262|+  -             88 932854at2            -           1620   1.9e-25   88.0   0.1   1   1   1.4e-28     2e-25   87.9   0.1   330   413     1    85     1    87 0.96 1_4714 # 2159999 # 2160262 # 1 # ID=1_4714;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+2:965673-967364|+    -            564 932854at2            -           1620   2.1e-20   71.2   0.1   1   1   1.9e-23   2.8e-20   70.8   0.1   834  1239    25   441    11   509 0.79 2_2077 # 965673 # 967364 # 1 # ID=2_2077;partial=00;start_type=TTG;rbs_motif=AACAA;rbs_spacer=13bp;gc_cont=0.514
+2:967659-968366|+    -            236 932854at2            -           1620   9.9e-20   69.0   0.0   1   1   8.2e-23   1.2e-19   68.7   0.0  1416  1594    25   197    10   207 0.87 2_2079 # 967659 # 968366 # 1 # ID=2_2079;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.490
+2:965294-965647|+    -            118 932854at2            -           1620   7.9e-06   22.9   0.0   1   1   5.4e-09   7.9e-06   22.9   0.0   732   766    31    65    24    96 0.88 2_2076 # 965294 # 965647 # 1 # ID=2_2076;partial=00;start_type=GTG;rbs_motif=AAA;rbs_spacer=6bp;gc_cont=0.514
+3:193448-194059|+    -            204 932854at2            -           1620   0.00026   17.9   0.2   1   1   2.1e-07    0.0003   17.7   0.2     3   152    45   195    43   201 0.84 3_433 # 193448 # 194059 # 1 # ID=3_433;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+1:2159325-2159432|+  -             36 932854at2            -           1620      0.16    8.6   0.0   1   1   0.00011      0.17    8.6   0.0   110   138     1    31     1    34 0.82 1_4712 # 2159325 # 2159432 # 1 # ID=1_4712;partial=00;start_type=ATG;rbs_motif=AAA;rbs_spacer=7bp;gc_cont=0.630
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm
+# Target file:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/run_bacteria_odb10/hmmer_output/932854at2.out --cpu 1 /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly
+# Date:            Sun Jan  4 15:52:24 2026
+# [ok]

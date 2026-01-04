@@ -1,0 +1,28 @@
+Assembly	assembly
+# contigs (>= 0 bp)	11
+# contigs (>= 1000 bp)	11
+# contigs (>= 5000 bp)	11
+# contigs (>= 10000 bp)	11
+# contigs (>= 25000 bp)	5
+# contigs (>= 50000 bp)	5
+Total length (>= 0 bp)	5464622
+Total length (>= 1000 bp)	5464622
+Total length (>= 5000 bp)	5464622
+Total length (>= 10000 bp)	5464622
+Total length (>= 25000 bp)	5391563
+Total length (>= 50000 bp)	5391563
+# contigs	11
+Largest contig	3647742
+Total length	5464622
+GC (%)	43.24
+N50	3647742
+N75	1179317
+L50	1
+L75	2
+# N's per 100 kbp	0.00
+# predicted genes (unique)	3884
+# predicted genes (>= 0 bp)	3886 + 0 part
+# predicted genes (>= 300 bp)	3323 + 0 part
+# predicted genes (>= 1500 bp)	438 + 0 part
+# predicted genes (>= 3000 bp)	52 + 0 part
+# predicted rRNA genes	18 + 0 part

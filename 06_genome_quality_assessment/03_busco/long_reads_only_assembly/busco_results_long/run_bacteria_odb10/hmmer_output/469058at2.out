@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+2:878610-879107|+    -            166 469058at2            -            299   4.3e-65  219.2   0.0   1   1   2.1e-68   6.1e-65  218.7   0.0   157   299     5   161     1   161 0.93 2_1889 # 878610 # 879107 # 1 # ID=2_1889;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+2:878090-878665|+    -            192 469058at2            -            299     2e-37  128.4   0.1   1   1   8.1e-41   2.4e-37  128.1   0.1     6   152    16   171    11   176 0.82 2_1888 # 878090 # 878665 # 1 # ID=2_1888;partial=00;start_type=ATG;rbs_motif=AACAA;rbs_spacer=13bp;gc_cont=0.502
+1:2310978-2311526|+  -            183 469058at2            -            299     0.078   11.5   0.0   1   1   3.7e-05      0.11   11.0   0.0    64   124    54   116    47   123 0.80 1_5046 # 2310978 # 2311526 # 1 # ID=1_5046;partial=00;start_type=TTG;rbs_motif=AATAA;rbs_spacer=7bp;gc_cont=0.455
+1:2626146-2626406|+  -             87 469058at2            -            299     0.094   11.2   0.7   1   1   3.4e-05       0.1   11.1   0.7    19    67     4    52     1    83 0.77 1_5704 # 2626146 # 2626406 # 1 # ID=1_5704;partial=00;start_type=ATG;rbs_motif=AAAAAA;rbs_spacer=15bp;gc_cont=0.421
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/469058at2.hmm
+# Target file:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/run_bacteria_odb10/hmmer_output/469058at2.out --cpu 1 /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/busco_downloads/lineages/bacteria_odb10/hmms/469058at2.hmm /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly/06_genome_quality_assessment/03_busco/long_reads_only_assembly/busco_results_long/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/kpchuang/Documents/03_whole_genome_assembly/01_raw_reads/long_reads_assembly
+# Date:            Sun Jan  4 15:52:24 2026
+# [ok]

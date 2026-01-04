@@ -1,0 +1,30 @@
+# Large files (>100MB)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.dmnd
+*.tar.gz
+*.tar.xz
+
+# Database files
+checkm2_database/
+bakta_db/
+amrfinder_db/
+
+# Temporary files
+*.tmp
+*.temp
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large output files
+*.fasta
+!assembly.fasta
+*.fa
+
+# Log files
+*.log
