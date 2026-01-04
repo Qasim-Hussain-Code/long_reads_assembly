@@ -17,6 +17,4 @@ unicycler -l processed_reads.fastq.gz \
     -t 12 --verbosity 2
 ```
 
-## Note
 
-Large FASTA files may not be tracked by git.

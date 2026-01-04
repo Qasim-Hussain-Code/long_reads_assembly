@@ -200,14 +200,6 @@ If you encounter `cmscan error! error code: 1`, add these flags:
 ```bash
 bakta ... --skip-crispr --skip-ncrna-region
 ```
-
-### Database paths
-Ensure environment variables are set:
-```bash
-export CHECKM2DB=/home/kpchuang/Documents/databases_important/checkm2_database/CheckM2_database/uniref100.KO.1.dmnd
-export BAKTA_DB=/home/kpchuang/Documents/databases_important/bakta_db/db-light
-```
-
 ## Citation
 
 If you use this pipeline, please cite the individual tools:
